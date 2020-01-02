@@ -13,6 +13,8 @@ import entities.Product;
 import entities.enums.OrderStatus;
 
 public class Program {
+	
+	// Programa para a emissão de pedidos de compra
 
 	public static void main(String[] args) throws ParseException {
 
